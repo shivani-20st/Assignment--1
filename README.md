@@ -60,13 +60,10 @@ All data is saved in a local `data.json` file, so your data remains intact betwe
 * Claim statuses default to "Pending".
 * The system uses Bootstrap for a clean UI.
 
-## insurance claim app demo
-        <video src="insurance-claim-app.mp4" controls width="640">
-</video>
 
 
 If you want to stop the app, press `Ctrl+C` in your terminal.
 
-Enjoy managing your insurance claims effortlessly!
+Enjoy managing your insurance claims effortlessly.
 
 
