@@ -3,6 +3,7 @@
 
 This is a simple Flask web application to manage insurance policyholders and their claims. It uses a JSON file for data storage and provides reports for claim analysis and risk assessment. The app also uses **ngrok** to expose the local server to the internet, so you can access it remotely.
 
+https://github.com/user-attachments/assets/45647875-8a58-4224-98c0-5675dec41300
 
 ## Features
 
